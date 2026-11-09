@@ -5,6 +5,7 @@
 
 - Seoul, Korea
 - hahyeong_0817@ewhain.net
+- [이력서 · 경력기술서 (PDF)](https://github.com/hahyeong/hahyeong/blob/main/%EC%9E%84%ED%95%98%ED%98%95_%EC%9D%B4%EB%A0%A5%EC%84%9C_%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C.pdf)
 - [포트폴리오 (PDF)](https://github.com/hahyeong/hahyeong/blob/main/%EC%9E%84%ED%95%98%ED%98%95_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 
 <br>
