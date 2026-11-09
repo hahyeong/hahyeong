@@ -5,6 +5,7 @@
 
 - Seoul, Korea
 - hahyeong_0817@ewhain.net
+- [포트폴리오 (PDF)](https://github.com/hahyeong/hahyeong/blob/main/%EC%9E%84%ED%95%98%ED%98%95_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 
 <br>
 
@@ -75,3 +76,9 @@
 
 - 네이버 클라우드 부트캠프 — 클라우드 네이티브 기반 웹 풀스택 개발자 과정 (2024.10 ~ 2025.05, 리더십상)
 - 이화여자대학교 — 컴퓨터공학전공 및 자기설계(스크랜튼-디지털인문학) (2018.02 ~ 2024.02)
+
+<br>
+
+## Language
+
+- OPIc IH (2026.05)
